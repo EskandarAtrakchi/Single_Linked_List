@@ -12,7 +12,7 @@ Let’s take linked list
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><strong>adding a new node on the first position</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><strong>adding a new node on the first position</strong></p></figcaption></figure>
 
 &#x20;
 
@@ -28,5 +28,5 @@ Let’s take linked list
 
 4\.      Set the next pointer of (X) to null.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>adding a new node on the last position</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>adding a new node on the last position</p></figcaption></figure>
 
