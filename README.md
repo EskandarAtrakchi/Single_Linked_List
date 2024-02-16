@@ -28,5 +28,5 @@ Let’s take linked list
 
 4\.      Set the next pointer of (X) to null.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>adding a new node on the last position</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>adding a new node on the last position</p></figcaption></figure>
 
